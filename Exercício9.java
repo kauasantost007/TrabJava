@@ -30,7 +30,7 @@ public class Exercício9 {
 
         System.out.println("Titular: " + conta.titular);
 
-        conta.depositar(1000);
+        conta.depositar(600);
         conta.exibirSaldo();
 
         conta.sacar(300);
